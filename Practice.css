@@ -16,3 +16,7 @@ p {
     color: purple;
     
 }
+ul {
+    list-style-type: square;
+    color: rgb(46, 2, 71);
+}
